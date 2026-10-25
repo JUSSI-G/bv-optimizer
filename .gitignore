@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+
+# Tooling
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Original course notebook (contains the assignment text, not part of the project)
+02_circuit_optimizer.ipynb
